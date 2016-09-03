@@ -5,7 +5,7 @@
 4. Calculate Gross Salary - WAP
 """
 
-# Keyboard Input
+# cmd prompt Input
 
 from sys import argv
 
